@@ -1,6 +1,6 @@
 # Codecademy-Events
 
-[Code your own Linktree](https://github.com/Pragmatic-Programmers/Codecademy-Events/tree/main/Linktree)
+- [Code your own Linktree](https://github.com/Pragmatic-Programmers/Codecademy-Events/tree/main/Linktree)
 
 
 ## Join our Community!
