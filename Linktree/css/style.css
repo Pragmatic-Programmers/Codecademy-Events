@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
+body {
+    background: url("../images/galaxy-background.png");
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+#userPhoto {
+    width: 110px;
+    height: 110px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 20%;
+}
+
+#userName {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    display: block;
+    text-decoration: none;
+}
+
+#userName h1 {
+    font-size: 2rem;
+    letter-spacing: 0.2rem;
+    font-weight: 300;
+    margin: 0 auto;
+}
+
+#userName p {
+    font-weight: 300;
+    margin: 20px auto;
+    display: block;
+}
+
+i {
+    margin-right: 0.3rem;
+}
+
+#links {
+    max-width: 500px;
+    width: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.link {
+    display: block;
+    background-color: rgba(78, 119, 253, 0.2);
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 20px;
+    padding: 17px;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 300;
+    transition: all cubic-bezier(0.8, 0.59, 0.29, 0.99);
+    border-radius: 10px;
+}
+
+.link:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: black;
+    border: none;
+}
+
+#links p {
+    text-align: center;
+    color: lavender;
+}
