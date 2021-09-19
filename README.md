@@ -1,6 +1,7 @@
 # Codecademy-Events
 
 - [Code your own Linktree](https://github.com/Pragmatic-Programmers/Codecademy-Events/tree/main/Linktree)
+- [Telegram bot using Python](https://github.com/Pragmatic-Programmers/Codecademy-Events/tree/main/Telegram%20Bot)
 
 
 ## Join our Community!
